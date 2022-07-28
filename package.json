@@ -14,7 +14,6 @@
     "install": "cd client && npm install",
     "client": "cd client && npm start"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
